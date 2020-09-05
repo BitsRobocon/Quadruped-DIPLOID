@@ -46,11 +46,11 @@ loopTime=0
 dS_gallop=[0,0.2,0.55,0.75]#gallop
 dS_trot=[0,0.5,0.5,0]#trot
 dS_walk=[0,0.5,0.75,0.25]#walk- 0.5 and 0.75 flipped, looks correct
-dS_pace=[0,0,0.5,0.5]# pace
-dS_bound=[0,0.5,0,0.5] # bound
+dS_bound=[0,0,0.5,0.5]# bound
+dS_pace=[0,0.5,0,0.5] # pace
 dS = []
 dS = dS_trot
-print(dS_trot)
+# print(dS_trot)
 
 t1=0
 t2=0
