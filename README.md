@@ -75,7 +75,7 @@ A trial simulation with pace gait
 The design for legs is inspired from spot-micro robot CAD but has been modified to incorporate Dynamixel AX-12A servo actuators.
 
 <p float="left">
-  <img src="docs/DIPLOID-grid_nobg.png" width=70% />
+  <img src="docs/DIPLOID-grid_nobg.png" width=60% />
 </p>
 
 Hardware planned to be used:
