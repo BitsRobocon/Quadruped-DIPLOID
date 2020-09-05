@@ -56,14 +56,14 @@ This is how various walking gaits look like in a simple 2D animation.
 
 |  |  |
 | ------ | ------ |
-| **Light Blue** | Left legs |
+| **Light Blue :** | Left legs |
 | **Dark Blue :** | Right Legs |
 
 Various gaits implemented so far.
 
 ### Simulation
 
-Put sim stuff here
+A simulation with trot walking gait
 
 ![trot simulation 2](docs/sim-test2.gif)
 
@@ -74,7 +74,9 @@ A trial simulation with pace gait
 #### Chassis and Hardware
 The design for legs is inspired from spot-micro robot CAD but has been modified to incorporate Dynamixel AX-12A servo actuators.
 
-![cloud rendered diploid](docs/DIPLOID-grid_nobg.png)
+<p float="left">
+  <img src="docs/DIPLOID-grid_nobg.png" width=70% />
+</p>
 
 Hardware planned to be used:
 - Raspberry Pi 4
