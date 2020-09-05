@@ -6,6 +6,7 @@
 
 **DIPLOID is four-legged Quadruped robot inspired by the Boston Dynamics Spot and MIT Cheetah, being developed by Team Robocon BITS Pilani.
 #make in India**
+
 Started in early 2019 as a long-term project with an aim to achieve stable walking on rough terrain and environment perception using SLAM technique. 
 Jump to:
 
@@ -73,7 +74,7 @@ A trial simulation with pace gait
 #### Chassis and Hardware
 The design for legs is inspired from spot-micro robot CAD but has been modified to incorporate Dynamixel AX-12A servo actuators.
 
-![cloud rendered diploid](docs/DIPLOID-grid_nobg small.png)
+![cloud rendered diploid](docs/DIPLOID-grid_nobg.png)
 
 Hardware planned to be used:
 - Raspberry Pi 4
