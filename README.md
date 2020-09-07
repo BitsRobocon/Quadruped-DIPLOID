@@ -39,14 +39,13 @@ This project is the source code for DIPLOID quadruped, a 4 legged robot. The sof
 ### Kinematics
 
 The inverse kinematics has been demonstrated in the illustration below:
-<p float=“left”>
-<img src=“docs/smai-ik1.jpg” width=45% />
-</p>
 
-<p float=“right”>
-<img src=“docs/smai-ik2.jpg” width=48% />
-<img src=“docs/smai-ik3.jpg” width=48% />
-</p>
+![ik1](docs/smai-ik1.jpg)
+
+![ik2](docs/smai-ik2.jpg)
+
+![ik3](docs/smai-ik3.jpg)
+
 Source: Spotmicroai community
 
 ### Gait
