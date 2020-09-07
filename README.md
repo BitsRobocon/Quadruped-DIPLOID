@@ -44,8 +44,8 @@ The inverse kinematics has been demonstrated in the illustration below:
 </p>
 
 <p float=“right”>
-<img src=“docs/smai-ik2” width=48% />
-<img src=“docs/smai-ik3” width=48% />
+<img src=“docs/smai-ik2.jpg” width=48% />
+<img src=“docs/smai-ik3.jpg” width=48% />
 </p>
 Source: Spotmicroai community
 
