@@ -4,8 +4,7 @@
 
 ![trot simulation early](docs/sim-test1.gif)
 
-**DIPLOID is four-legged Quadruped robot inspired by the Boston Dynamics Spot and MIT Cheetah, being developed by Team Robocon BITS Pilani.
-#make in India**
+**DIPLOID is four-legged Quadruped robot inspired by the Boston Dynamics Spot and MIT Cheetah, being developed by Team Robocon BITS Pilani.**
 
 Started in early 2019 as a long-term project with an aim to achieve stable walking on rough terrain and environment perception using SLAM technique. 
 Jump to:
@@ -22,11 +21,9 @@ Jump to:
 
 ## Motivation
 
-Quadruped robots have several applications like last mile delivery, guiding robots for blind, security and surveillance, accessing hazardous enviornments, etc. Or maybe Elon Musk will populate Mars with an army of Quadrupeds...who knows?  ;)
+Quadruped robots have several applications like last mile delivery, guiding robots for blind, security and surveillance, accessing hazardous enviornments, space exploration, etc.
 
-> **"Robots will walk with us to the Future"**
-
-The Quadruped robot community and research is growing everyday in different parts of the world. So far, there hasn't been a robust quadruped on an undergraduate level in India, and we on the journey of develpoing one. #MakeInIndia
+The Quadruped robot community and research is growing everyday in different parts of the world. So far, there hasn't been a robust quadruped on an undergraduate level in India, and we on the journey of develpoing one.
 
 ### Overview
 
@@ -34,6 +31,9 @@ This project is the source code for DIPLOID quadruped, a 4 legged robot. The sof
   - Gaits like- trot, walk, pace, gallop and turning
   - Gazebo simulation for testing gaits and RL
 
+Jan 2021 update:
+- ros publish code hasn't been added
+- This repo is on hault. New repo present on bitsrobocon github is the one being updated
 
 
 ### Kinematics
@@ -89,7 +89,6 @@ The design for legs is inspired from spot-micro robot CAD but has been modified 
 Hardware planned to be used:
 - Raspberry Pi 4
 - Jetson nano
-- 3D LIDAR
 - Intel Realsense
 - Dynamixel AX-12A actuators
 - IMU
@@ -102,7 +101,7 @@ We are aiming for stable walking on uneven terrains, blind stair climbing capabi
 * Original idea : [MIT Cheetah](https://www.youtube.com/watch?v=QZ1DaQgg3lE&ab_channel=MassachusettsInstituteofTechnology%28MIT%29) and [Spot by Boston Dynamics](https://www.bostondynamics.com/spot)
 * High speed trot-running: Implementation of a hierarchical controller using proprioceptive impedance control on the [MIT Cheetah](https://dspace.mit.edu/handle/1721.1/98270)
 * https://github.com/mike4192/spotMicro
-* And of course Dillinger, open source with a [public repository][dill] on GitHub.
+* Dillinger, open source with a [public repository][dill] on GitHub.
 
 ### Special Thanks
 
